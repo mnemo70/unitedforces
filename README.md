@@ -38,7 +38,7 @@ The following changes were done to the code:
 ## References
 
 * [Demozoo](https://demozoo.org/productions/263984/)
-* [Pouet](https://www.pouet.net/prod.php?which=14748)
+* [Pouet](https://www.pouet.net/prod.php?which=96683)
 * [Kestra BitWorld](http://janeway.exotica.org.uk/release.php?id=27299)
 
 ## Author
